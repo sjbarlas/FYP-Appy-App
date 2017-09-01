@@ -8,7 +8,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-//import com.saira.appy.MainPictureActivity;
 import com.saira.appy.MainQuizActivity;
 import com.saira.appy.R;
 import com.saira.appy.entities.CategoryObject;
@@ -52,8 +51,6 @@ public class QuizCategoryAdapter extends RecyclerView.Adapter<QuizCategoryViewHo
                 Intent quizTypeIntent = null;
                 if(quizType == 1){
                     quizTypeIntent = new Intent(context, MainQuizActivity.class);
-//                }else if(quizType == 2){
-//                    quizTypeIntent = new Intent(context, MainPictureActivity.class);
                 }
                 quizTypeIntent.putExtra("QUIZ_CATEGORY_NAME", catName);
                 quizTypeIntent.putExtra("QUIZ_CATEGORY_ID", id);

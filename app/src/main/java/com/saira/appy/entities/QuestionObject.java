@@ -43,10 +43,6 @@ public class QuestionObject {
         return answer;
     }
 
-    //public String getImage(){
-      //  return image;
-    //}
-
     public String[] convertOptionsToStringArray(String options){
         String[] allOptions = options.split(",");
         return allOptions;

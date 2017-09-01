@@ -37,16 +37,6 @@ public class QuizMenuActivity extends AppCompatActivity {
             }
         });
 
-//        Button bestQuiz = (Button)findViewById(R.id.picture_quiz_button);
-//        assert bestQuiz != null;
-//        bestQuiz.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Intent pictureQuizIntent = new Intent(QuizMenuActivity.this, PictureCategoryActivity.class);
-//                pictureQuizIntent.putExtra("QUIZ_TYPE", 2);
-//                startActivity(pictureQuizIntent);
-//            }
-//        });
 
         Button quizInstruction = (Button)findViewById(R.id.quiz_instruction_button);
         assert quizInstruction != null;

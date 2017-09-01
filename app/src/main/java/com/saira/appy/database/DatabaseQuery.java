@@ -42,8 +42,7 @@ public class DatabaseQuery extends DatabaseObject{
                 String question = cursor.getString(cursor.getColumnIndexOrThrow("question"));
                 String options = cursor.getString(cursor.getColumnIndexOrThrow("options"));
                 String answer = cursor.getString(cursor.getColumnIndexOrThrow("answer"));
-                //String image = cursor.getString(cursor.getColumnIndexOrThrow("image"));
-                quizQuestionList.add(new QuestionObject(quiz_id, question, options, answer /*,image*/));
+                quizQuestionList.add(new QuestionObject(quiz_id, question, options, answer));
             }while(cursor.moveToNext());
         }
         cursor.close();

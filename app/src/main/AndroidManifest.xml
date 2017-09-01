@@ -21,8 +21,6 @@
         <activity android:name="com.saira.appy.MainQuizActivity" />
         <activity android:name="com.saira.appy.QuizResultActivity" />
         <activity android:name="com.saira.appy.ResultAnalysisActivity" />
-        <!--<activity android:name="com.saira.appy.PictureCategoryActivity" />-->
-       <!-- <activity android:name="com.saira.appy.MainPictureActivity"></activity>-->
     </application>
 
 </manifest>

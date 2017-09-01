@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -9,6 +10,8 @@
 /captures
 .externalNativeBuild
 =======
+=======
+>>>>>>> ebb2472a8c4352214326f9421d5aa4c996838012
 # Compiled class file
 *.class
 
@@ -31,4 +34,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 >>>>>>> 87d8935722c126cee380787663dfac6dadccba02
+=======
+>>>>>>> ebb2472a8c4352214326f9421d5aa4c996838012
