@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Appy</string>
+    <string name="quiz_slogan">Putting the learning in the classroom</string>
+    <string name="select_quiz">SELECT QUIZ</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="your_best_score">YOUR BEST SCORE</string>
+    <string name="quiz_user_score_table">QUIZ TOP SCORERS</string>
+    <string name="total_best_score">93%</string>
+    <string name="quiz_category">Quiz Category</string>
+    <string name="addition">Addition</string>
+    <string name="question_title">Question</string>
+    <string name="question">What is 2 + 2?</string>
+    <string name="four">4</string>
+    <string name="next_button">NEXT QUESTION</string>
+    <string name="correct">CORRECT</string>
+    <string name="incorrect">INCORRECT</string>
+    <string name="quiz_result">Result</string>
+    <string name="retake_quiz">Retake quiz</string>
+    <string name="view_result">View result</string>
+    <string name="question_num">Question 1</string>
+    <string name="your_answer">Your answer</string>
+    <string name="correct_answer">Correct answer</string>
+    <string name="quiz_result_analysis">Quiz Result Analysis</string>
+    <string name="no_quiz_in_category">There is no quiz in this category.</string>
+    <string name="text_quiz">MATH QUIZ</string>
+    <string name="quiz_information_notice">Instructions</string>
+    <string name="question_count">Question 1</string>
+</resources>
